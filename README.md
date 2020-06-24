@@ -10,7 +10,10 @@ This is a small Node.js/AppleScript script to get the last lessons of a school w
 After you finished the installation and setup process, you can now start using LastLesson for WebUntis.
 LastLesson for WebUntis is designed to create an entry for each day starting from Monday:
 
-'node app.js "2020-06-29"'
+```
+node app.js "2020-06-29"
+```
+
 Please note that the day of the date must be a Monday.
 
 ## Note
